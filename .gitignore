@@ -1,0 +1,14 @@
+# Compiled object files
+*.o
+*.obj
+*.exe
+*.dll
+
+# Temporary files
+*.tmp
+*.log
+
+# Build directories
+/build/
+/bin/
+/out/
